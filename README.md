@@ -1,9 +1,3 @@
-# python_course_project
-simple python project 
-## Project details 
-bla bla bla 
-- bla 1 
-- bla 2 
 
 # Progetto Gestione Studente
 Questo script Python definisce una classe `Studente` per gestire i dati anagrafici e la carriera accademica.
